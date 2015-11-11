@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vietnam Android Academy</title>
+    <description>Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015</description>
+    <link>http://devfest.vn/</link>
+    <atom:link href="http://devfest.vn/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Call for Papers</title>
+        <description>&lt;p&gt;GDG DevFest Vietnam 2015 will be held 27th Sep to 10 th October in 3 cities of Vietnam: Hanoi, Da Nang, Ho Chi Minh City If you want to be part of this great event as a speaker you knocked at the good door.&lt;/p&gt;
+
+&lt;h4 id=&quot;presenters--who-should-speak-at-the-devfest-conference&quot;&gt;Presenters – who should speak at the DevFest Conference?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;developers (freelance and hired)&lt;/li&gt;
+  &lt;li&gt;companies developing software (apps, tools, frameworks etc.)&lt;/li&gt;
+  &lt;li&gt;research institutions with Google relevant activities&lt;/li&gt;
+  &lt;li&gt;companies, organisations and individuals using Google technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;themes-and-topics--what-do-we-expect&quot;&gt;Themes and topics – what do we expect?&lt;/h4&gt;
+&lt;p&gt;Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.&lt;/p&gt;
+
+&lt;h5 id=&quot;android&quot;&gt;Android&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Google I/O 2015&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Material Design&lt;/li&gt;
+  &lt;li&gt;Migration to ART&lt;/li&gt;
+  &lt;li&gt;New Android Camera API&lt;/li&gt;
+  &lt;li&gt;Internet Of Things&lt;/li&gt;
+  &lt;li&gt;Storage Access Framework&lt;/li&gt;
+  &lt;li&gt;Elevation &amp;amp; Clipping&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Android Continuous Integration&lt;/li&gt;
+  &lt;li&gt;Loaders, Cursor Adapters&lt;/li&gt;
+  &lt;li&gt;Android Animations&lt;/li&gt;
+  &lt;li&gt;Patterns in Android development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;web&quot;&gt;Web&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AngularJS (1x and 2.0)&lt;/li&gt;
+  &lt;li&gt;Dart (AngularDart, server-side)&lt;/li&gt;
+  &lt;li&gt;Polymer and WebComponents&lt;/li&gt;
+  &lt;li&gt;Material Design in Web&lt;/li&gt;
+  &lt;li&gt;ChromeOS (apps development)&lt;/li&gt;
+  &lt;li&gt;Web Performance (tools, techniques, approaches)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;cloud&quot;&gt;Cloud&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Google Cloud Platform
+    &lt;ul&gt;
+      &lt;li&gt;Compute Engine&lt;/li&gt;
+      &lt;li&gt;App Engine&lt;/li&gt;
+      &lt;li&gt;Storages (SQL, NoSQL, BigData)&lt;/li&gt;
+      &lt;li&gt;APIs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Go (as a language for a Cloud Ready Apps)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlydevfestproposal&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/devfestproposal&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is September 15, 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
+&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 16:00:00 +0700</pubDate>
+        <link>http://devfest.vn/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://devfest.vn/blog/call-for-papers</guid>
+      </item>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;We’re very excited - not just because of the inordinate amount of caffeine based products consumed - 
+but also because our team are putting together 
+the final missing parts to the biggest Google related event in Vietnam - &lt;a href=&quot;http://devfest.vn/&quot;&gt;GDG DevFest 2015&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;This year event will take place in 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Being a unique Asian city in Vietnam: Hanoi, Danang, Ho Chi Minh City is among top 50 cities of the Asia to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Asia according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Asia in company of experts and technical geeks.&lt;/p&gt;
+
+&lt;p&gt;More details about speakers, DevFest will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGHanoi&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGHanoi&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/0/b/115379288713741614733/+GdghanoiOrg/&quot;&gt;Google+&lt;/a&gt; or  in order not to miss any cool stuff about festival.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2015 15:00:00 +0700</pubDate>
+        <link>http://devfest.vn/blog/hello-world</link>
+        <guid isPermaLink="true">http://devfest.vn/blog/hello-world</guid>
+      </item>
+    
+  </channel>
+</rss>

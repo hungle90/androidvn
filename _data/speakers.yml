@@ -1,0 +1,173 @@
+- 
+  id: 3
+  name: "Ngo Thang"
+  surname: "Long"
+  company: "Horus Team,"
+  title: "CTO "
+  bio: "Long is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He lead R&D activities including virtual reality and game He is Phd in Information and Security, Queensland University of Technology, Australia"
+  thumbnailUrl: ngoquanglong.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+- 
+  id: 4
+  name: "Le Nguyen"
+  surname: "Minh"
+  company: "Divmob"
+  title: "Game Designer "
+  bio: "Minh has 5 years of experience in Game Design. He worked as Game Designer at VNG and now is Divmob where he joined a teams that they developed Epic Heroes War (two times get featured global on Google Play), Tank Battle, Galaxy Pirate, Happy Me. Making game products is his passion. He said that :  'Kẻ say mê làm Game không phụ thuộc vào thiên hạ nhiều hay ít người chơi. Giả sử thiên hạ chỉ còn đúng một người chơi Game thì mình vẫn phải nghiền ngẫm mà làm ra Game. Game ấy may ra mới có thể kéo dài được đến đời sau.'"
+  thumbnailUrl: lenguyenminh.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 5
+  name: "Sami "
+  surname: "Kizilbash"
+  company: "Google"
+  title: " Developer Relations Program Manager, South & Southeast Asia, Google"
+  bio: "Sami is the point-of-contact for developer and startup communities across the region as part of Google's global Developer Relations team. Joining Google three years ago, he initially focused on establishing the company's presence across South Asia’s emerging markets, working with the region’s most innovative media creatives, entrepreneurs, and marketers to expand their reach online.Sami also actively mentors technology entrepreneurs and supports startup ecosystems in the region. Prior to Google, Sami founded a Singapore-based technology firm and led the development of cloud-based marketing and business tools catered to SMEs in the region.  He has co-produced media products in Asia, Europe, Africa, and the Middle East, including a TV & web series designed to encourage and support entrepreneurship in emerging markets. He has a Management Information Systems degree from McGill University (Canada), and an MBA from INSEAD (France/Singapore) where he specialized in Entrepreneurship and Strategy."
+  thumbnailUrl:  SamiKizilbash.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google Singapore", url: "https://www.google.com.sg/"}
+    - {abbr: "GDG", title: "Google Developers", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+SamiKizilbash/"}
+    - {name: "twitter", link: "https://twitter.com/samikiz"}
+
+- 
+  id: 6
+  name: "Nguyen Giang"
+  surname: "Son"
+  company: "Gimasys Co., Ltd."
+  title: "CTO"
+  bio: "Son has been the CTO of Gimasys for 5 years in which his main role is to be the R&D lead to study Google for Work technologies including Google Apps for Work, Chrome for Work, Google Search for Work, Google Maps for Work, Google Cloud Platform and Android for Work and make them accessible to everyone in the company as well as to any enterprise customer who is interested in these products and solutions. With Google Cloud Platfrom, Mr. Son is in charge of receiving technical courses from Google on solutions and deployments to be the first Google Cloud Platform Evangelist in Vietnam."
+  thumbnailUrl: nguyengiangson.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 7
+  name: "Nguyen Quang"
+  surname: "Trung"
+  company: "Vserv Mobi"
+  title: " Manager of Developer Alliances"
+  bio: "Trung is a Manager of Developer Alliances of Vserv in Vietnam. Trung has 5 years of experience in making Mobile Apps Products, Mobile Marketing as well. He worked at Microsoft Vietnam and organized Windows and Windows Phone's communities. He was also key speaker of Microsoft Vietnam in the Office 365 conferences."
+  thumbnailUrl: nguyenquangtrung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/100970963801338989759/"}
+    - {name: "twitter", link: ""}
+- 
+  id: 8
+  name: "Gaby"
+  surname: "Hien"
+  company: "Vserv Mobi"
+  title: "Deputy GM - Developer Alliances"
+  bio: "Hien is a Deputy GM - Developer Alliances of Verv Mobi SEA"
+  thumbnailUrl: gabyhien.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 9
+  name: "Ngo Van"
+  surname: "Luyen"
+  company: "Divmob"
+  title: "CEO"
+  bio: "Luyen has worked in France for 5 years, then come back Vietnam and found DIVMOB in 2012s. Divmob has produced over ten games for both Android, and iOS. Their most successful are Ninja Revenge, Zombie Age 2 and Epic Heroes War, which garnered over three million downloads in the first month of release and were featured on Google Play Home Page in over 30 countries. Zombie Age 2 and Epic Heroes War are featured on Google Play Home page globally, Epic Heroes War was also featured on iTunes Home page as Best New Games. The company was founded in December 2011 and located in Ho Chi Minh City, Vietnam."
+  thumbnailUrl: ngovanluyen.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 10
+  name: "Le Huynh "
+  surname: "Kim Ngan"
+  company: "GDG Vietnam"
+  title: "Manager"
+  bio: "Ngan is a dedicated person with a big passion for startups and has a deep insight about the Vietnam's startup eco-system, market and startup people. She is Founder of Action.vn which is the leading tech news in Vietnam, Co-founder of Google Developer Group Viet Nam and trip planner and connector at Triip.me."
+  thumbnailUrl: lehuynhkimngan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 11
+  name: "Le "
+  surname: "Loc"
+  company: "Mobioneer"
+  title: "Founder"
+  bio: "He is a lecture of Da Nang University of Science and Technology. He established Mobioneer company which is developing mobile applications. He is a passionate person in game development and will share you his game story named AmIClever."
+  thumbnailUrl: leloc.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 12
+  name: "Le Van"
+  surname: "Khanh"
+  company: "Gameloft Da Nang"
+  title: "Leader of Android HD Division"
+  bio: "He is a Leader of Android HD Division, Gameloft Da Nang. He has more than 5 years experience in game development and 3 years management experience in game industry. The topic he will share with you is “The professional game production process”. You will be introduced the professional game production process, the challengers and the key notes to be successful. How to raise your game to the top rating. How to keep your game interesting and get more profit?"
+  thumbnailUrl: levankhanh.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+- 
+  id: 14
+  name: "Fasai "
+  surname: "Pongpitaksopon"
+  company: "Google"
+  title: "Strategic Partner Manager"
+  bio: "Fasai Pongpitaksopon has been with Google for over four years. In that time, she has worked across various functions: first, she grew small- and medium-sized businesses across South East Asia with Google AdWords. Next, she shifted roles and now advises strategic partners of Google AdSense and Google AdMob on how to monetize their websites and apps. Fasai is passionate about supporting developers, entrepreneurs, and startups in the region to help grow their businesses sustainably. She’s enthusiastic about inspiring partners to create successful businesses with Google solutions."
+  thumbnailUrl: fasai.jpg
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com/"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 15
+  name: "Nguyen Hoang"
+  surname: "Chuong"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nguyenhoangchuong.jpg
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 16
+  name: "Quoc"
+  surname: "Khanh"
+  company: "VR Vietnam Group"
+  title: "Administator"
+  bio: "Khanh is an Administator of VR Vietnam Group"
+  thumbnailUrl: quockhanh.jpg
+
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 17
+  name: "Nguyen Vinh"
+  surname: "Tuong"
+  company: "Gameloft"
+  title: "Game Designer "
+  bio: "He said that: 'Game là một hành trình, bạn có thể chơi đi chơi lại và chỉ thật sự thất bại khi bạn từ bỏ'. Một số dự án game đã tham gia porting tại Gameloft: Asphalt 8, Tin Tin, Lost Planet, Solitaire. "
+  thumbnailUrl: nguyenvinhtuong.jpg
+
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}

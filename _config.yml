@@ -1,0 +1,330 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+keep_files: ["img"]
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "Vietnam Android Academy"
+email: "contact@devfest.vn"
+description: "Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015"
+baseurl: ""
+url: "http://devfest.vn"
+logo: "/img/seo/devfest.jpg"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "hungle90.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "GDG Hanoi"
+organizerAlternateName: "Google Developer Group Hanoi"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "hung@gdghanoi.org"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://gdghanoi.org"
+
+# Head
+metaKeywords: "DevFest Hanoi 2015, Devfest Da nang 2015, devfest Ho Chi Minh2015, DevFest Vietnam 2015, Da Nang, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
+twitterAccount: "@DevFest"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documentsi
+c4pUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
+c4sponsorsUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+
+
+
+bottomNavigationLinks:
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
+rightNavigationButtons:
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "GDG DevFest <typeout> 2015"
+eventDate: "September - October, 2015"
+typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
+typeoutFallback: "Season"
+heroButtons:
+ - {link: "https://bit.ly/gdgdevfest2015", text: "   Ha Noi  "}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "  Da Nang  "}
+ - {link: "http://bit.ly/gdgdevfesthcm2015", text: "Ho Chi Minh"}
+
+
+# About Block
+aboutTitle: "About GDG DevFest"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! " }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging with IOT device. " }
+ - {title: "CodeLabs", image: "hackathon.jpg", text: "Freestyle CodeLabs! Come and tame your favourite technology!Awesome speakers and lots of fun!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "1500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "25", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "cities", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Da Nang"
+eventLocationName: "Saigon Tuorane Hotel"
+eventLocationLink: "http://devfest.vn"
+eventStreetAddress: "Saigon Tourane Hotel, No 5th, Dong Da st, Da Nang"
+eventAddressLocality: "Da Nang"
+eventAddressLocalityRegion: ""
+eventPostalCode: "550000"
+eventAddressCountry: "Vietnam"
+eventStartTime: "2015-09-27T18:00"
+eventDoorTime: "18:00"
+eventEndTime: "2015-09-25T21:30"
+eventPlaceCoordinates: "16.08293, 108.21962"
+mapCenterCoordinates: "16.08293, 108.21962"
+mapMobileCenterCoordinates: "16.08293, 108.21962"
+# # Location Block
+# locationBlockTitle: "Danang"
+# eventLocationName: "VTC Academy"
+# eventLocationLink: "http://devfest.vn"
+# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
+# eventAddressLocality: "Danang"
+# eventAddressLocalityRegion: ""
+# eventPostalCode: "100000"
+# eventAddressCountry: "Vietnam"
+# eventStartTime: "2015-09-27T13:30"
+# eventDoorTime: "13:00"
+# eventEndTime: "2015-09-25T17:00"
+# eventPlaceCoordinates: "20.99540, 105.86202"
+# mapCenterCoordinates: "20.99540, 105.86202"
+# mapMobileCenterCoordinates: "20.99540, 105.86202"
+# # Location Block
+# locationBlockTitle: "Ho Chi Minh"
+# eventLocationName: "RMIT"
+# eventLocationLink: "http://devfest.vn"
+# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
+# eventAddressLocality: "Ho Chi Minh"
+# eventAddressLocalityRegion: ""
+# eventPostalCode: "100000"
+# eventAddressCountry: "Vietnam"
+# eventStartTime: "2015-09-27T13:30"
+# eventDoorTime: "13:00"
+# eventEndTime: "2015-09-25T17:00"
+# eventPlaceCoordinates: "10.729502, 106.693618"
+# mapCenterCoordinates: "10.729502, 106.693618"
+# mapMobileCenterCoordinates: "10.729502, 106.693618"
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest2015"
+twitterFeed: ""
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Registration"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. All tickets are FREE for developers, desginers and start-ups"
+ticketsOffers:
+ -
+  name: "DevFest Hanoi"
+  price: "27/09/2015"
+  priceCurrency: ""
+  ticketsNumber: ""
+  additionalInfo: "VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi "
+  ribbon: ""
+  buyButtonLink: "https://bit.ly/gdgdevfest2015"
+  buyButtonText: "Registration"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-09-27T23:59"
+  soldOut: true
+  soldOutText: "Closed"
+ -
+  name: "DevFest Da Nang"
+  price: "10/2015"
+  priceCurrency: ""
+  ticketsNumber: ""
+  ribbon: ""
+  additionalInfo: "Saigon Tourane Hotel, No 5th, Dong Da st, Da Nang"
+  featured: true
+  buyButtonLink: "https://bit.ly/gdgdevfestmientrung2015"
+  buyButtonText: "Registration"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-10-01T10:00"
+
+ -
+
+  name: "DevFest Ho Chi Minh"
+  price: "10/2015"
+  priceCurrency: ""
+  ticketsNumber: ""
+  buyButtonLink: "http://bit.ly/gdgdevfesthcm2015"
+  buyButtonText: "Registration"
+  additionalInfo: "Hoa Sen University, No 8 Nguyen Van Trang st, The 1st District, Ho Chi Minh"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-10-04T23:59"
+ 
+  
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGHanoi", icon: "twitter"}
+ - {link: "https://facebook.com/GDGHanoi", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://gdghanoi.org", text: "GDG Hanoi"}
+   - {link: "http://gdgvietnam.org", text: "GDG VietNam"}
+   - {link: "", text: "GDG Da Nang"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:contact@devfest.vn", text: "contact@devfest.vn"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestvietnam"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "21.02867, 105.85215"
+logisticsMapMobileCenterCoordinates: "21.02867, 105.85215"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Viet Nam"
+directionDetailsCards:
+ - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi.'}
+ - {title: "Da Nang", information: 'SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang'}
+ - {title: "Ho Chi Minh City", information: 'RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh'}
+# directionDetailsWideCards:
+#  -
+#   title: "Questions?"
+#   subCards:
+#    -
+#     title: "Hotels"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Registration"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Attendance Details"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
