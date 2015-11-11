@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vietnam Android Academy</title>
-    <description>Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015</description>
-    <link>http://devfest.vn/</link>
-    <atom:link href="http://devfest.vn/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Vietnam Android Academ will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015</description>
+    <link>hhttp://hungle90.github.io/androidvn//</link>
+    <atom:link href="hhttp://hungle90.github.io/androidvn//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
@@ -82,8 +82,8 @@
 &lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 16:00:00 +0700</pubDate>
-        <link>http://devfest.vn/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://devfest.vn/blog/call-for-papers</guid>
+        <link>hhttp://hungle90.github.io/androidvn//blog/call-for-papers</link>
+        <guid isPermaLink="true">hhttp://hungle90.github.io/androidvn//blog/call-for-papers</guid>
       </item>
     
       <item>
@@ -97,8 +97,8 @@ the final missing parts to the biggest Google related event in Vietnam - &lt;a h
 &lt;p&gt;More details about speakers, DevFest will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGHanoi&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGHanoi&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/0/b/115379288713741614733/+GdghanoiOrg/&quot;&gt;Google+&lt;/a&gt; or  in order not to miss any cool stuff about festival.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Sep 2015 15:00:00 +0700</pubDate>
-        <link>http://devfest.vn/blog/hello-world</link>
-        <guid isPermaLink="true">http://devfest.vn/blog/hello-world</guid>
+        <link>hhttp://hungle90.github.io/androidvn//blog/hello-world</link>
+        <guid isPermaLink="true">hhttp://hungle90.github.io/androidvn//blog/hello-world</guid>
       </item>
     
   </channel>
