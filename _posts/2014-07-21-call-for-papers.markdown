@@ -4,9 +4,9 @@ title:  "Call for Papers"
 date:   2015-09-09 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Vietnam 2015 will be held 27th Sep to 10 th October in 3 cities of Vietnam: Hanoi, Da Nang, Ho Chi Minh City If you want to be part of this great event as a speaker you knocked at the good door.
+Vietnam Android Academy 2015 will be held in December in 3 cities of Vietnam: Hanoi, Da Nang, Ho Chi Minh City If you want to be part of this great event as a speaker you knocked at the good door.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Android Expert – who should speak at the DevFest Conference?
 
 * developers (freelance and hired)
 * companies developing software (apps, tools, frameworks etc.)

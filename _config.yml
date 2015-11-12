@@ -148,13 +148,13 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest2015"
+twitterHashTag: "vietnamandroidacademy"
 twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a trainer"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -176,8 +176,8 @@ ticketsOffers:
   buyButtonLink: "https://bit.ly/gdgdevfest2015"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-09-02T10:00"
-  validThrough: "2015-09-27T23:59"
+  validFrom: "2015-11-1T10:00"
+  validThrough: "2015-12-1T23:59"
   # soldOut: true
   # soldOutText: "Closed"
  -
@@ -191,8 +191,8 @@ ticketsOffers:
   buyButtonLink: "https://bit.ly/gdgdevfestmientrung2015"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-09-02T10:00"
-  validThrough: "2015-10-01T10:00"
+  validFrom: "2015-11-02T10:00"
+  validThrough: "2015-12-01T10:00"
 
  -
 
@@ -205,7 +205,7 @@ ticketsOffers:
   additionalInfo: "Hoa Sen University, No 8 Nguyen Van Trang st, The 1st District, Ho Chi Minh"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-02T10:00"
-  validThrough: "2015-10-04T23:59"
+  validThrough: "2015-12-04T23:59"
  
   
 
