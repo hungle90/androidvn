@@ -52,9 +52,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
+ - {link: "http://bit.ly/vietnamandroidtrainers", text: "Đăng ký tại đây"}
 rightNavigationButtons:
- - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
+ - {link: "http://bit.ly/vietnamandroidtrainers", text: "Đăng ký tại đây"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,8 +63,8 @@ eventDate: "December, 2015 "
 typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/gdgdevfest2015", text: "  Registration  "}
- - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "For Trainer "}
+ - {link: "http://bit.ly/vietnamandroidtrainers", text: "Registration"}
+ - {link: "http://bit.ly/vietnamandroidtrainers", text: "For Trainer "}
 
 
 # About Block
