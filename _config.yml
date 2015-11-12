@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Vietnam Android Academy"
 email: "contact@devfest.vn"
 description: "Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh."
-baseurl: ""
+baseurl: "/androidvn"
 url: "https://hungle90.github.io"
 logo: "/img/seo/devfest.jpg"
 permalink: "/blog/:title"
