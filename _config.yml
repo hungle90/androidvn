@@ -58,13 +58,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Vietnam Android Academy "
-eventDate: "December, 2015 <typeout>"
+heroTitle: "Vietnam Android Academy <typeout> "
+eventDate: "December, 2015 "
 typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/gdgdevfest2015", text: "  Registration  "}
- - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Call for Android Expert "}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "For Trainer "}
 
 
 # About Block
@@ -167,8 +167,8 @@ ticketsTitle: "Registration"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. All tickets are FREE for developers, desginers and start-ups"
 ticketsOffers:
  -
-  name: "DevFest Hanoi"
-  price: "27/09/2015"
+  name: "Hanoi"
+  price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
   additionalInfo: "VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi "
@@ -178,11 +178,11 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-02T10:00"
   validThrough: "2015-09-27T23:59"
-  soldOut: true
-  soldOutText: "Closed"
+  # soldOut: true
+  # soldOutText: "Closed"
  -
-  name: "DevFest Da Nang"
-  price: "10/2015"
+  name: "Da Nang"
+  price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: ""
@@ -196,8 +196,8 @@ ticketsOffers:
 
  -
 
-  name: "DevFest Ho Chi Minh"
-  price: "10/2015"
+  name: "Ho Chi Minh"
+  price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
   buyButtonLink: "http://bit.ly/gdgdevfesthcm2015"
