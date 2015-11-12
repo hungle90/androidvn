@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hungle90.github.io/androidvn/blog/call-for-papers</loc>
+    <loc>http://vietandroid.academy/blog/call-for-papers</loc>
     <lastmod>2015-09-09T16:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/blog/hello-world</loc>
+    <loc>http://vietandroid.academy/blog/hello-world</loc>
     <lastmod>2015-09-07T15:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/blog/</loc>
+    <loc>http://vietandroid.academy/blog/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/cod/</loc>
+    <loc>http://vietandroid.academy/cod/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/hackathon/</loc>
+    <loc>http://vietandroid.academy/hackathon/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/</loc>
+    <loc>http://vietandroid.academy/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/logistics/</loc>
+    <loc>http://vietandroid.academy/logistics/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/schedule/</loc>
+    <loc>http://vietandroid.academy/schedule/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/speakers/</loc>
+    <loc>http://vietandroid.academy/speakers/</loc>
   </url>
   <url>
-    <loc>https://hungle90.github.io/androidvn/team/</loc>
+    <loc>http://vietandroid.academy/team/</loc>
   </url>
 </urlset>
