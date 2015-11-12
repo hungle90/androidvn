@@ -5,9 +5,9 @@
     - {name: "GDG Da Nang", description: "GDG Da Nang - Open and volunteer geek community", link: "", imageUrl: "gdg-danang.svg"}
     - {name: "GDG Vietnam", description: "GDG Vietnam - Open and volunteer geek community", link: "http://gdgvietnam.org", imageUrl: "gdg-vietnam.svg"}
 - 
-  group: "Co-organizers"
-  elements: 
-    - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-    - {name: "SaiGon Tourane Hotel", description: "SaiGon Tourane Hotel", link: "http://www.saigontourane.com.vn/", imageUrl: "hotel.svg"}
-    - {name: "HoaSen University", description: "HoaSen University", link: "http://www.hoasen.edu.vn/vi/", imageUrl: "hoasenuniversity.svg"}
-   
+  # group: "Co-organizers"
+  # elements: 
+  #   - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
+  #   - {name: "SaiGon Tourane Hotel", description: "SaiGon Tourane Hotel", link: "http://www.saigontourane.com.vn/", imageUrl: "hotel.svg"}
+  #   - {name: "HoaSen University", description: "HoaSen University", link: "http://www.hoasen.edu.vn/vi/", imageUrl: "hoasenuniversity.svg"}
+  #  

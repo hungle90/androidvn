@@ -12,8 +12,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Vietnam Android Academy"
 email: "contact@devfest.vn"
-description: "Vietnam Android Academ will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015"
-baseurl: "/androidvn"
+description: "Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh."
+baseurl: ""
 url: "https://hungle90.github.io"
 logo: "/img/seo/devfest.jpg"
 permalink: "/blog/:title"
@@ -21,7 +21,7 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "hungle90.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
-# Organizer Info
+# Organizer Infoy
 organizerName: "GDG Hanoi"
 organizerAlternateName: "Google Developer Group Hanoi"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
@@ -30,8 +30,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdghanoi.org"
 
 # Head
-metaKeywords: "DevFest Hanoi 2015, Devfest Da nang 2015, devfest Ho Chi Minh2015, DevFest Vietnam 2015, Da Nang, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
-twitterAccount: "@DevFest"
+metaKeywords: "Android, Vietnam Android Academy, Da Nang, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
+twitterAccount: "@vietnamandroidacademy"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/hackathon/", text: "HackFair"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 
 
 
@@ -58,22 +58,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "September - October, 2015"
+heroTitle: "Vietnam Android Academy "
+eventDate: "December, 2015 <typeout>"
 typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/gdgdevfest2015", text: "   Ha Noi  "}
- - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "  Da Nang  "}
- - {link: "http://bit.ly/gdgdevfesthcm2015", text: "Ho Chi Minh"}
+ - {link: "https://bit.ly/gdgdevfest2015", text: "  Registration  "}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Call for Android Expert "}
 
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! " }
- - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging with IOT device. " }
- - {title: "CodeLabs", image: "hackathon.jpg", text: "Freestyle CodeLabs! Come and tame your favourite technology!Awesome speakers and lots of fun!" }
+ - {title: "Android", image: "conference.jpg", text: "The biggest Android Course that is supported by Google, Udacity and GDG community! " }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging with Android device. " }
+ - {title: "CodeLabs", image: "hackathon.jpg", text: "Learn to build Android App with Awesome speakers and lots of fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
