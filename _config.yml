@@ -88,9 +88,9 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Android Experts"
+rockstarSpeakersButtonText: "See all experts"
 
 # Location Block
 locationBlockTitle: "Da Nang"
