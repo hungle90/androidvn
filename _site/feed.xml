@@ -8,9 +8,9 @@
     
       <item>
         <title>Call for Papers</title>
-        <description>&lt;p&gt;Vietnam Android Academy 2015 will be held in December in 3 cities of Vietnam: Hanoi, Da Nang, Ho Chi Minh City If you want to be part of this great event as a speaker you knocked at the good door.&lt;/p&gt;
+        <description>&lt;p&gt;The Vietnam Android Academy provides a series of Android programming classes. The learning system uses both online and offline method. We will be in Ho Chi Minh City, Hanoi and Danang across the country, starting with the  Udacity Android Development for Beginners course in December 2015.&lt;/p&gt;
 
-&lt;h4 id=&quot;android-expert--who-should-speak-at-the-devfest-conference&quot;&gt;Android Expert – who should speak at the DevFest Conference?&lt;/h4&gt;
+&lt;h4 id=&quot;android-expert--who-should-become-a-trainer-at-vietnam-android-academy&quot;&gt;Android Expert – who should become a trainer at Vietnam Android Academy?&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;developers (freelance and hired)&lt;/li&gt;
@@ -26,16 +26,13 @@
 
 &lt;h5 id=&quot;android&quot;&gt;Android&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;Google I/O 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Participants Target
+We are targeting to enroll 1,000 participants in the program across Vietnam.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Material Design&lt;/li&gt;
-  &lt;li&gt;Migration to ART&lt;/li&gt;
-  &lt;li&gt;New Android Camera API&lt;/li&gt;
-  &lt;li&gt;Internet Of Things&lt;/li&gt;
-  &lt;li&gt;Storage Access Framework&lt;/li&gt;
-  &lt;li&gt;Elevation &amp;amp; Clipping&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Requirements for students:
+* Programming Experience, not Android app
+* Java, OOP, MVC
+* Laptop &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;
 
@@ -46,55 +43,30 @@
   &lt;li&gt;Patterns in Android development&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;web&quot;&gt;Web&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AngularJS (1x and 2.0)&lt;/li&gt;
-  &lt;li&gt;Dart (AngularDart, server-side)&lt;/li&gt;
-  &lt;li&gt;Polymer and WebComponents&lt;/li&gt;
-  &lt;li&gt;Material Design in Web&lt;/li&gt;
-  &lt;li&gt;ChromeOS (apps development)&lt;/li&gt;
-  &lt;li&gt;Web Performance (tools, techniques, approaches)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;cloud&quot;&gt;Cloud&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Google Cloud Platform
-    &lt;ul&gt;
-      &lt;li&gt;Compute Engine&lt;/li&gt;
-      &lt;li&gt;App Engine&lt;/li&gt;
-      &lt;li&gt;Storages (SQL, NoSQL, BigData)&lt;/li&gt;
-      &lt;li&gt;APIs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Go (as a language for a Cloud Ready Apps)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlydevfestproposal&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/devfestproposal&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is September 15, 2015&lt;/p&gt;
+&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlyvietnamandroidtrainers&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/vietnamandroidtrainers&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is December 1, 2015&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until December 1, 2015.&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
-&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#046;&amp;#118;&amp;#110;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#118;&amp;#105;&amp;#101;&amp;#116;&amp;#097;&amp;#110;&amp;#100;&amp;#114;&amp;#111;&amp;#105;&amp;#100;&amp;#046;&amp;#097;&amp;#099;&amp;#097;&amp;#100;&amp;#101;&amp;#109;&amp;#121;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#118;&amp;#105;&amp;#101;&amp;#116;&amp;#097;&amp;#110;&amp;#100;&amp;#114;&amp;#111;&amp;#105;&amp;#100;&amp;#046;&amp;#097;&amp;#099;&amp;#097;&amp;#100;&amp;#101;&amp;#109;&amp;#121;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 Sep 2015 16:00:00 +0700</pubDate>
+        <pubDate>Wed, 11 Nov 2015 16:00:00 +0700</pubDate>
         <link>http://vietandroid.academy/blog/call-for-papers</link>
         <guid isPermaLink="true">http://vietandroid.academy/blog/call-for-papers</guid>
       </item>
     
       <item>
-        <title>Hello World!</title>
+        <title>Hello Vietnam!</title>
         <description>&lt;p&gt;We’re very excited - not just because of the inordinate amount of caffeine based products consumed - 
 but also because our team are putting together 
-the final missing parts to the biggest Google related event in Vietnam - &lt;a href=&quot;http://devfest.vn/&quot;&gt;GDG DevFest 2015&lt;/a&gt;. &lt;/p&gt;
+the final missing parts to the biggest Google related event in Vietnam - [](http://vietandroid.academy/). &lt;/p&gt;
 
-&lt;p&gt;This year event will take place in 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Being a unique Asian city in Vietnam: Hanoi, Danang, Ho Chi Minh City is among top 50 cities of the Asia to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Asia according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Asia in company of experts and technical geeks.&lt;/p&gt;
+&lt;p&gt;This year event will take place in 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Being a unique Asian city in Vietnam: Hanoi, Danang, Ho Chi Minh City is among top 50 cities of the Asia to visit in 2015 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Asia according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Asia in company of experts and technical geeks.&lt;/p&gt;
 
-&lt;p&gt;More details about speakers, DevFest will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGHanoi&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGHanoi&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/0/b/115379288713741614733/+GdghanoiOrg/&quot;&gt;Google+&lt;/a&gt; or  in order not to miss any cool stuff about festival.&lt;/p&gt;
+&lt;p&gt;More details about experts, Vietnam Androdi Academy will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGHanoi&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGHanoi&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/0/b/115379288713741614733/+GdghanoiOrg/&quot;&gt;Google+&lt;/a&gt; or  in order not to miss any cool stuff about festival.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Sep 2015 15:00:00 +0700</pubDate>
         <link>http://vietandroid.academy/blog/hello-world</link>

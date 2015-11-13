@@ -3,6 +3,8 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdg.svg"}
+    - {name: "Udacity", description: "Udacity", link: "https://www.udacity.com", imageUrl: "udacity.svg"}
+
     
 # - group: "Media sponsor"
 #   elements: 
