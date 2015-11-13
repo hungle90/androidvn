@@ -45,10 +45,10 @@ c4sponsorsUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ # - {permalink: "/hackathon/", text: "Hackathon"}
 
 
 
