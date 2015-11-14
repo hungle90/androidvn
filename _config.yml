@@ -228,6 +228,9 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:contact@vietandroid.academy", text: "contact@vietandroid.academy"}
+   - {link: "mailto:hanoi@vietandroid.academy", text: "hanoi@vietandroid.academy"}
+   - {link: "mailto:danang@vietandroid.academy", text: "danang@vietandroid.academy"}
+   - {link: "mailto:hcm@vietandroid.academy", text: "hcm@vietandroid.academy"}
  -
   title: "FAQ"
   links:

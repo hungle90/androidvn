@@ -1,6 +1,6 @@
 - 
   date: "2015-09-27"
-  dateReadable: "Ha Noi - 27/09/2015"
+  dateReadable: "Day 1"
   tracks: 
     - {title: "Room1", color: "#90be4e"}
     - {title: "Room2", color: "#03a9f4"}
@@ -8,19 +8,44 @@
     - {title: "Room4", color: "#FFFF00"}
   timeslots:
     - {
-        startTime: "13:30",
-        endTime: "14:15",
+        startTime: "09:30",
+        endTime: "09:35",
         sessionIds: [000]
     }
     - {
-        startTime: "14:15",
-        endTime: "15:00",
-        sessionIds: [001, 002, 003, 007]
+        startTime: "09:35",
+        endTime: "10:00",
+        sessionIds: []
     }
     - {
-        startTime: "15:15",
-        endTime: "15:30",
+        startTime: "10:00",
+        endTime: "10:15",
         sessionIds: [307]
+    }
+    - {
+        startTime: "10:15",
+        endTime: "12:00",
+        sessionIds: []
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:15",
+        sessionIds: [004,005,006,008]
+    }
+    - {
+        startTime: "12:15",
+        endTime: "16:20",
+        sessionIds: [004,005,006,008]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:20",
+        sessionIds: [004,005,006,008]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:20",
+        sessionIds: [004,005,006,008]
     }
     - {
         startTime: "15:30",
