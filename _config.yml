@@ -80,7 +80,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "1500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "10", specialCharacter: "+", info: "Experts", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "cities", detail: "plus entertainment lounge"}
 
 # Latest News Block
