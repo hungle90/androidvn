@@ -53,9 +53,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "http://bit.ly/vietnamandroidtrainers", text: "Đăng ký tại đây"}
+ - {link: "http://bit.ly/googleandroidcourse", text: "Đăng ký tại đây"}
 rightNavigationButtons:
- - {link: "http://bit.ly/vietnamandroidtrainers", text: "Đăng ký tại đây"}
+ - {link: "http://bit.ly/googleandroidcourse", text: "Đăng ký tại đây"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -64,7 +64,7 @@ eventDate: "December, 2015 "
 typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/vietnamandroidtrainers", text: "Registration"}
+ - {link: "http://bit.ly/googleandroidcourse", text: "Registration"}
  - {link: "http://bit.ly/vietnamandroidtrainers", text: "For Trainer "}
 
 
