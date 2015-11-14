@@ -45,8 +45,8 @@ c4sponsorsUrl: "http://bit.ly/vietnamandroidtrainers"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ # - {permalink: "/trainers/", text: "Trainer"}
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 
