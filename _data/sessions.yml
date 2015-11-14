@@ -2,8 +2,8 @@
   id: 000
   title: "Preparation"
   description: 
-  speakers: [5]
-  language: en
+  speakers: []
+  language: vi
   complexity: ""
 
 -
@@ -11,28 +11,36 @@
   title: "Ice breaking"
   place: "Hall"
   service: true
+  language: vi
   description: "The best time to talk with trainers and attendees"
 -
-  id: 001
-  title: "Opening"
+  id: 308
+  title: "Break"
+  place: ""
+  service: true
+  language: vi
   description: ""
-  speakers: [3]
+-
+  id: 001
+  title: "Guest arrival & registration"
+  description: ""
+  speakers: []
   language: vi
   complexity: ""
 - id: 002
-  title: "Workshop session 1"
+  title: "Opening"
   description: ""
-  speakers: [7]
+  speakers: []
   language: vi
   complexity: "Intermediate"
 
 
 -
   id: 003
-  title: "Break"
+  title: "Workshop session 1"
   description: " "
   subtype: presentation
-  speakers: [4]
+  speakers: []
   language: vi
   complexity: "" 
   presentation: ""
@@ -40,96 +48,96 @@
 - 
  
   id: 004
-  title: "Workshop session 3 & challenge(Lesson 2B & Practice Set 1) "
+  title: "Workshop session 2 "
   description: ""
-  speakers: [3]
+  speakers: []
   language: vi
   complexity: "" 
   presentation: ""
 
 -
   id: 005
-  title: "Announcement & closing"
+  title: "Workshop session 3 & challenge(Lesson 2B & Practice Set 1)"
   description: ""
-  speakers: [7]
+  speakers: []
   language: vi
   complexity: "Intermediate"
 - id: 006
-  title: "Q&A"
+  title: "Announcement & closing"
   description: ""
-  speakers: [4]
+  speakers: []
   language: vi
   complexity: "Intermediate, Beginner"
 - id: 007
-  title: "Google BigQuery, how to understand players: Example cases"
+  title: "Workshop session 4 (Lesson 3A)"
   description: ""
-  speakers: [6]
+  speakers: []
   language: vi
   complexity: "Intermediate, Beginner"
 - id: 008
-  title: ""
+  title: "Workshop session 5(Lesson 3B)"
   description: ""
   speakers: []
   language: vi
   complexity: ""
 - id: 009
-  title: "Checkin-Networking"
+  title: "Workshop session 6 & challenge(Practice Set 2)"
   description: ""
   speakers: []
   language: vi
   complexity: ""
 - id: 010
-  title: "Welcome greeting from GDG"
+  title: "Students must submit their Final Project app (.apk and screenshots) by the following Monday (8 days) in order to receive their Certificate of Completion."
   description: ""
-  speakers: [10]
+  speakers: []
   language: vi
   complexity: ""
 - id: 011
   title: "Professional game production"
   description: ""
-  speakers: [12]
+  speakers: []
   language: vi
   complexity: ""
 - id: 012
   title: "AmIClever - Game Story Telling"
   description: ""
-  speakers: [11]
-  language: 
+  speakers: []
+  language: vi
   complexity: ""
 - id: 013
   title: "How to improve your revenue + CodeLab Cardboard"
   description: ""
-  speakers: [9]
+  speakers: []
   language: 
   complexity: ""
 - id: 014
   title: "End of event"
   description: ""
   speakers: []
-  language: 
+  language: vi
   complexity: ""
 - id: 015
   title: "Smarter Monetization with Google AdMob."
   description: ""
-  speakers: [14]
+  speakers: []
   language: en
   complexity: ""
 - id: 016
   title: "Player's mind: skill - challenge - flow - interest curves"
   description: ""
-  speakers: [17,4]
+  speakers: []
   language: 
   complexity: ""
 - id: 017
   title: "How to build Android ROM from source"
   description: ""
-  speakers: [15]
+  speakers: []
   language: 
   complexity: ""
 - id: 018
   title: "VR Experiences"
   description: ""
-  speakers: [16]
+  speakers: []
   language: 
   complexity: ""
 - id: 019
