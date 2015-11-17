@@ -21,6 +21,27 @@
   language: vi
   description: ""
 -
+  id: 309
+  title: "Batch 1 "
+  place: ""
+  service: true
+  language: vi
+  description: ""
+-
+  id: 310
+  title: "Batch 2"
+  place: ""
+  service: true
+  language: vi
+  description: ""
+-
+  id: 311
+  title: "Batch 3"
+  place: ""
+  service: true
+  language: vi
+  description: ""  
+-
   id: 001
   title: "Guest arrival & registration"
   description: ""
