@@ -1,15 +1,15 @@
 <!-- About Hackathon Section -->
-<!-- <section id="about-hackathon" class="about-hackathon">
+<section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
             {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
-            <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
-                <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+            <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-left{% endif %} col-md-12">
+                <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <img class="img-responsive" src="{{ site.baseurl }}/img/hackathon/{{ row.image }}" alt="Hackathon">
                 </div>
-                <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
                     <p>{{ row.details }}</p>
                 </div>
@@ -17,31 +17,6 @@
             {% endfor %}
         </div>
     </div>
-</section> -->
+</section>
 <!-- End About Hackathon Section -->
 
-<html>
-Syllabus
-Android for Beginner
-Lesson 1: Building Layouts
-Writing XML
-TextViews and ImageViews
-Styling your views
-Positioning your views with ViewGroups
-LinearLayout weight
-Using RelativeLayout to position views relative to each other
-Lesson 2: Making an App Interactive
-Making a button click execute code
-Having the app evaluate math expressions
-Declaring, initializing and using variables
-Variable scope
-Nested layouts
-The String datatype
-Combining Strings, ints and variables with concatenation
-Lesson 3: Work with the Android Framework and Control Flow
-Method declaration and calling
-Parameters and return values
-An introduction to Object Oriented Programming
-Changing the attributes of your views dynamically
-Creating conditional logic using if/else statement
-</html>
