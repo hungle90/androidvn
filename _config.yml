@@ -169,7 +169,7 @@ ticketsTitle: "Registration"
 ticketsInfo: "Tickets grant access to all sections, coffee brakes, lunch and party. All tickets are FREE for developers"
 ticketsOffers:
  -
-  name: "Hanoi"
+  name: "Workshop 1:05-06"
   price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
@@ -183,7 +183,7 @@ ticketsOffers:
   # soldOut: true
   # soldOutText: "Closed"
  -
-  name: "Da Nang"
+  name: "Workshop 2:12-13"
   price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
@@ -198,7 +198,7 @@ ticketsOffers:
 
  -
 
-  name: "Ho Chi Minh"
+  name: "Workshop 3:19-20"
   price: "12/2015"
   priceCurrency: ""
   ticketsNumber: ""
