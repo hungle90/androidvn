@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Vietnam Android Academy"
-email: "contact@devfest.vn"
+email: "contact@vietandroid.academy"
 description: "Vietnam Android Academy will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh."
 baseurl: ""
 url: "http://vietandroid.academy"
@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documentsi
-c4pUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
+c4pUrl: "http://bit.ly/vietnamandroidtrainers"
 c4sponsorsUrl: "http://bit.ly/vietnamandroidtrainers"
 
 

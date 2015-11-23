@@ -6,7 +6,7 @@
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdg.svg"}
 
     
-# - group: "Media sponsor"
-#   elements: 
-#     - {name: "Moblead", description: "Moblead", link: "http://moblead.vn/", imageUrl: "moblead.svg"}
-#     - {name: "Game4V", description: "Game4V", link: "http://game4v.com/", imageUrl: "game4v.svg"} 
+- group: "Media sponsor"
+  elements: 
+    - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
+
