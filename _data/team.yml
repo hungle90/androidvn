@@ -1,6 +1,19 @@
-
-- 
+-
   id: 0
+  name: "George"
+  surname: "Nguyen"
+  company: "GDG Vietnam"
+  title: "Founder & Manager of GDG Vietnam"
+  bio: ""
+  thumbnailUrl: george.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/george.nguyen79"} 
+- 
+  id: 1
   name: "Nguyen Ba"
   surname: "Ngoc"
   company: "GDG Hanoi"
@@ -13,36 +26,7 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/ngoc.possible?fref=ts"}
 - 
-  id: 1
-  name: "Le Thanh"
-  surname: "Hung"
-  company: "GDG Hanoi"
-  title: "Technical & Event Manager"
-  thumbnailUrl: lethanhhung.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
-    - {name: "github", link: ""}
-
--
   id: 2
-  name: "George"
-  surname: "Nguyen"
-  company: "GDG Vietnam"
-  title: "Founder & Manager of GDG Vietnam"
-  bio: ""
-  thumbnailUrl: george.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: "https://www.facebook.com/george.nguyen79"}   
-- 
-  id: 3
   name: "Le Huynh "
   surname: "Kim Ngan"
   company: "GDG Vietnam"
@@ -56,6 +40,23 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/ngansau?fref=ts"}
 - 
+- 
+  id: 3
+  name: "Le Thanh"
+  surname: "Hung"
+  company: "GDG Hanoi"
+  title: "Technical & Event Manager"
+  thumbnailUrl: lethanhhung.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
+    - {name: "github", link: ""}
+
+  
+
   id: 4
   name: "Nguyen Phuong"
   surname: "Nhi"
