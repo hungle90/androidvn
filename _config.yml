@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/syllabus/", text: "Syllabus"}
- # - {permalink: "/trainers/", text: "Trainer"}
+ - {permalink: "/trainers/", text: "Trainer"}
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 
