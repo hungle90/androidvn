@@ -6,5 +6,5 @@
     
 - group: "Media sponsor"
   elements: 
-    - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
+    # - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
 
