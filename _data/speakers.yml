@@ -9,6 +9,9 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: ""}
+  ribbon: 
+    # - {abbr: "Google", title: "Google Singapore", url: "https://www.google.com.sg/"}
+    - {abbr: "GDG", title: "Google Developer Group Hanoi", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 - 
   id: 4
   name: "Phan Tich"
@@ -24,17 +27,112 @@
     - {name: "github", link: ""}
 - 
   id: 5
-  name: "Cao Duy "
-  surname: "Vu"
-  company: "VNAD"
+  name: "Tran Duc"
+  surname: "Tam"
+  company: "NTQ"
   title: " Android Developer"
   bio: " "
-  thumbnailUrl:  caoduyvu.jpg
+  thumbnailUrl:  tranductam.jpg
   rockstar: true
   ribbon: 
     # - {abbr: "Google", title: "Google Singapore", url: "https://www.google.com.sg/"}
-    # - {abbr: "GDG", title: "Google Developers", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group Hanoi", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
+- 
+  id: 6
+  name: "Ly Quoc"
+  surname: "Hung"
+  company: "PPlus"
+  title: "Android Developer"
+  bio: "Hung graduated from the Bachelor of IT program from RMIT University Vietnam. He has been working for more than one year with Android and Unity projects. His hobby is exploring new technology and cutting edge applications."
+  thumbnailUrl: lyquochung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
 
+- 
+  id: 7
+  name: "Le Duc"
+  surname: "Tuan"
+  company: "SutrixMedia"
+  title: "Mobile Leader"
+  bio: "Tuan currently is the mobile team leader and project manager for mobile application projects at an outsourcing company. He has more than 4 years of software development experience including 3 years of working with Android. He is interested in introducing Android to other people. Currently, he is an MBA student at RMIT Vietnam."
+  thumbnailUrl: leductuan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 8
+  name: "Cao Minh"
+  surname: "Vu"
+  company: "GeoComply"
+  title: "Team Leader"
+  bio: "Vu got a Master degree in Computer Science, specialising in Computer Vision at HoChiMinh city of Technology. Vu has been working with Android since very early stage (beta Android) and worked with big companies like HTC, Epson etc. He is also a regular speaker at tech events such as ApTech or Barcamp."
+  thumbnailUrl: caominhvu.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 9
+  name: "Cao Duy"
+  surname: "Vu"
+  company: "2359Media"
+  title: "Android Team Leader"
+  bio: "Vu has more than 3 year experience developing Android applications. His apps have been widely used within Asia. Besides working, he is passionate in sharing and helping young students to begin their journey with Android development."
+  thumbnailUrl: caoduyvu.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 10
+  name: "Le Chinh"
+  surname: "Nhan"
+  company: "SSS"
+  title: "Mobile Developer "
+  bio: "Nhan is a scholarship student from Royal Melbourne Institute of Technology (RMIT) majoring at Software Engineering. He is very passionate about mobile application development. He has been working with both Android and iOS. With roughly 2 years experience in Android, Nhan has established well-rounded skill sets through company projects as well as his freelance projects. Beside working as a mobile developer, Nhan is also open for any start up opportunities."
+  thumbnailUrl: lechinhnhan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 11
+  name: "Nguyen Vinh"
+  surname: "Hung"
+  company: "Zappasoft"
+  title: "Mobile Developer"
+  bio: "Hung has been working as an Android Developer for more than 1.5 years and successfully published several apps on Google Play. His aim is to create high quality mobile applications that meet the market’s demand."
+  thumbnailUrl: nguyenvinhhung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 12
+  name: "Trang Hong"
+  surname: "Son"
+  company: "Hoa Sen University"
+  title: "Lecturer"
+  bio: "Son is a Lecturer at Hoa Sen University"
+  thumbnailUrl: tranghongson.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
