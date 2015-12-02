@@ -7,7 +7,7 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "FPT University", description: "FPT University", link: "http://vtcacademy.edu.vn", imageUrl: "fptuniversity.svg"}
+    - {name: "FPT University", description: "FPT University", link: "http://fpt.edu.vn/", imageUrl: "fptuniversity.svg"}
     - {name: "FPT Aptech", description: "FPT Aptech", link: "http://fpt.aptech.edu.vn/", imageUrl: "aptech.svg"}
     - {name: "Silicon Straits Saigon", description: "Silicon Straits Saigon", link: "http://siliconstraits.vn/", imageUrl: "siliconss.svg"}
     - {name: "Danang University of Technology", description: "Danang University of Technology", link: "http://dut.udn.vn/", imageUrl: "danang.svg"}
