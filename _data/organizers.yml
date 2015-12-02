@@ -5,9 +5,9 @@
     - {name: "GDG Da Nang", description: "GDG Da Nang - Open and volunteer geek community", link: "", imageUrl: "gdg-danang.svg"}
     - {name: "GDG Vietnam", description: "GDG Vietnam - Open and volunteer geek community", link: "http://gdgvietnam.org", imageUrl: "gdg-vietnam.svg"}
 - 
-  # group: "Co-organizers"
-  # elements: 
-  #   - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-  #   - {name: "SaiGon Tourane Hotel", description: "SaiGon Tourane Hotel", link: "http://www.saigontourane.com.vn/", imageUrl: "hotel.svg"}
-  #   - {name: "HoaSen University", description: "HoaSen University", link: "http://www.hoasen.edu.vn/vi/", imageUrl: "hoasenuniversity.svg"}
-  #  
+  group: "Co-organizers"
+  elements: 
+    - {name: "FPT University", description: "FPT University", link: "http://vtcacademy.edu.vn", imageUrl: "fptuniversity.svg"}
+    - {name: "FPT Aptech", description: "FPT Aptech", link: "http://fpt.aptech.edu.vn/", imageUrl: "aptech.svg"}
+    - {name: "Silicon Straits Saigon", description: "Silicon Straits Saigon", link: "http://siliconstraits.vn/", imageUrl: "siliconss.svg"}
+    - {name: "Danang University of Technology", description: "Danang University of Technology", link: "http://dut.udn.vn/", imageUrl: "danang.svg"}

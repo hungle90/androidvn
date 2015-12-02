@@ -47,9 +47,10 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/syllabus/", text: "Syllabus"}
+ - {permalink: "/venues/", text: "Venues"}
  - {permalink: "/trainers/", text: "Trainer"}
  - {permalink: "/team/", text: "Team"}
- # - {permalink: "/logistics/", text: "Logistics"}
+
 
 
 
@@ -265,34 +266,29 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Viet Nam"
 directionDetailsCards:
- - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi.'}
- - {title: "Da Nang", information: 'SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang'}
- - {title: "Ho Chi Minh City", information: 'RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Hotels"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ - {title: "Ha Noi", information: 'FPT Aptech, DETECH Tower, No 8th, Ton That Thuyet, Nam Tu Liem, Hanoi<br><br><br><br>'}
+ - {title: "Da Nang", information: 'Danang University of Technology, No 54th, Nguyen Luong Bang, Hoa Khanh Bac, Lien Chieu, Danang<br><br>Duy Tan University, K7/25 Quang Trung, Hai Chau, Danang<br><br>IViettech Center,92 Quang Trung, Thach Thang, Danang '}
+ - {title: "Ho Chi Minh City", information: 'Silicon Straits Saigon, 147 Ton Dat Tien, Tan Phong,HCM<br><br>Axon Active Vietnam, Hai Au Building 10th Floor, 39B Truong Son Str., Ward 4, Tan Binh Dist,HCM<br><br>Cho Tot, The 18th Floor, Me Linh Point Building, No 2 Ngo Duc Ke, Q1, HCM '}
+directionDetailsWideCards:
+ -
+  title: "FAQ?"
+  subCards:
+   -
+    title: "Online Course"
+    links:
+     - {link: "http://bit.ly/udacityHN", text: "Udacity Course"}
+   -
+    title: "Registration"
+    links:
+     - {link: "http://bit.ly/androidhn-faq", text: "How to"}
+
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "http://bit.ly/androidhn-faq", text: "Details"}
+   
+     
+
 
 # Hackathon
 hackathonTitle: "Syllabus"

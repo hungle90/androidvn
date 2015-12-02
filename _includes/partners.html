@@ -18,7 +18,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline" id="ul_sponsor">
+            <ul class="list-inline" id="ul_sponsor" type-name="{{ partner.group }}">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
@@ -32,8 +32,8 @@
         </div>
     </div> 
 </section>
-/*<style type="text/css">
-    #ul_sponsor li:first-of-type{
+<style type="text/css">
+    #ul_sponsor[type-name="General sponsor"] li:first-of-type{
         max-width: 100%;
         width:100%;
         display: block;
@@ -41,15 +41,11 @@
         vertical-align: center;
     }
     @media screen and (min-width: 1024px) {
-        #ul_sponsor li:first-of-type a img{
+        #ul_sponsor[type-name="General sponsor"] li:first-of-type a img{
             min-width: 400px;
             max-width: 400px;
         }
-
-       
-        }
     }
-   
-</style>*/
+</style>
 <!-- End Partners Section -->
 

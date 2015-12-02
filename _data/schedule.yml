@@ -9,7 +9,7 @@
     # - {title: "Room4", color: "#FFFF00"}
   timeslots:
     - {
-        startTime: "09:30",
+        startTime: "09:00",
         endTime: "09:35",
         sessionIds: [000]
     }
