@@ -268,7 +268,7 @@ directionDetailsTitle: "Get around Viet Nam"
 directionDetailsCards:
  - {title: "Ha Noi", information: '- FPT Aptech, DETECH Tower, No 8th, Ton That Thuyet, Nam Tu Liem, Hanoi<br><br><br><br><br><br>'}
  - {title: "Da Nang", information: '- Danang University of Technology, No 54th, Nguyen Luong Bang, Hoa Khanh Bac, Lien Chieu, Danang<br><br>- Duy Tan University, K7/25 Quang Trung, Hai Chau, Danang<br><br>- IViettech Center,92 Quang Trung, Thach Thang, Danang '}
- - {title: "Ho Chi Minh City", information: '- Silicon Straits Saigon, 147 Ton Dat Tien, Tan Phong,HCM<br><br>- Axon Active Vietnam, Hai Au Building 10th Floor, 39B Truong Son Str., Ward 4, Tan Binh Dist,HCM<br><br>- Cho Tot, The 18th Floor, Me Linh Point Building, No 2 Ngo Duc Ke, Q1, HCM '}
+ - {title: "Ho Chi Minh City", information: '- Silicon Straits Saigon, 147 Ton Dat Tien, Tan Phong,HCM<br><br>- Axon Active Vietnam, Hai Au Building 10th Floor, 39B Truong Son Str., Ward 4, Tan Binh Dist,HCM<br><br>- Cho Tot, The 18th Floor, Me Linh Point Building, No 2 Ngo Duc Ke, Q1, HCM<br><br>- FabLab Saigon, 44/10 Nguyen Van Dau Street, Ward 6, Binh Thanh District, Ho Chi Minh City, Vietnam'}
 directionDetailsWideCards:
  -
   title: "FAQ?"

@@ -11,3 +11,5 @@
     - {name: "FPT Aptech", description: "FPT Aptech", link: "http://fpt.aptech.edu.vn/", imageUrl: "aptech.svg"}
     - {name: "Silicon Straits Saigon", description: "Silicon Straits Saigon", link: "http://siliconstraits.vn/", imageUrl: "siliconss.svg"}
     - {name: "Danang University of Technology", description: "Danang University of Technology", link: "http://dut.udn.vn/", imageUrl: "danang.svg"}
+    - {name: "Viec Donus", description: "Donus", link: "http://viecbonus.com/", imageUrl: "donus.svg"}
+    - {name: "Axon Active Vietnam", description: "Axon Active Vietnam", link: "http://www.axonactive.com/", imageUrl: "axon.svg"}
