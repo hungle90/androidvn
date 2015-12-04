@@ -7,7 +7,7 @@
 - group: "Media sponsor"
   elements: 
     - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
-    
+    - {name: "VTC Academy", description: "VTC Academy", link: "http://vtcacademy.edu.vn/", imageUrl: "vtc.svg"}
     # - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
 
 
