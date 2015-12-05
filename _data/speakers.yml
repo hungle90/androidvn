@@ -136,3 +136,29 @@
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+- 
+  id: 13
+  name: "Nguyen Ba"
+  surname: "Trung"
+  company: "Hoa Sen University"
+  title: "Lecturer"
+  bio: "Trung is a Lecturer at Hoa Sen University"
+  thumbnailUrl: nguyenbatrung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 14
+  name: "Huynh Quang"
+  surname: "Thao"
+  company: "FSoft"
+  title: "Android Developer"
+  bio: "Thao has more than 3 years of experience working with Android development. He has been working with companies like TMA Solutions and FSoft."
+  thumbnailUrl: huynhquangthao.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
