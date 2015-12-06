@@ -162,3 +162,16 @@
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+- 
+  id: 15
+  name: "Quach Ngoc"
+  surname: "Xuan"
+  company: "FUNix"
+  title: "Academic Director"
+  bio: "Xuan has more than 10 years of experience on Software development, Computer Science . Now he is an Academic Director at FUNix"
+  thumbnailUrl: quachngocxuan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
