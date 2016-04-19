@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Vietnam Android Academy <typeout> "
-eventDate: "December, 2015 "
+eventDate: "May, 2016 "
 typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
@@ -170,8 +170,8 @@ ticketsTitle: "Registration"
 ticketsInfo: "Tickets grant access to all sections, coffee brakes, lunch and party. All tickets are FREE for developers"
 ticketsOffers:
  -
-  name: "Workshop 1:05-06"
-  price: "12/2015"
+  name: "VAA - Hanoi"
+  price: "05/2016"
   priceCurrency: ""
   ticketsNumber: ""
   additionalInfo: ""
@@ -184,8 +184,8 @@ ticketsOffers:
   # soldOut: true
   # soldOutText: "Closed"
  -
-  name: "Workshop 2:12-13"
-  price: "12/2015"
+  name: "VAA - Danang"
+  price: "05/2016"
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: ""
@@ -199,8 +199,8 @@ ticketsOffers:
 
  -
 
-  name: "Workshop 3:19-20"
-  price: "12/2015"
+  name: "VAA - HCM"
+  price: "05/2016"
   priceCurrency: ""
   ticketsNumber: ""
   buyButtonLink: "http://bit.ly/googleandroidcourse"
