@@ -40,23 +40,8 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/ngansau?fref=ts"}
 - 
+
   id: 3
-  name: "Le Thanh"
-  surname: "Hung"
-  company: "GDG Hanoi"
-  title: "Tech Evangelist"
-  thumbnailUrl: lethanhhung.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
-    - {name: "github", link: ""}
-
--
-
-  id: 4
   name: "Nguyen Phuong"
   surname: "Nhi"
   company: "GDG Mien Trung"
