@@ -14,7 +14,7 @@
     - {name: "facebook", link: "https://www.facebook.com/ngoc.possible?fref=ts"}
 
 -
-  id: 2
+  id: 1
   name: "George"
   surname: "Nguyen"
   company: "GDG Vietnam"
@@ -28,7 +28,7 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/george.nguyen79"}   
 - 
-  id: 3
+  id: 2
   name: "Le Huynh "
   surname: "Kim Ngan"
   company: "GDG Vietnam"
@@ -42,7 +42,7 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/ngansau?fref=ts"}
 - 
-  id: 4
+  id: 3
   name: "Nguyen Phuong"
   surname: "Nhi"
   company: "GDG Mien Trung"
@@ -56,7 +56,7 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/pnnwt?fref=ts"}
 -
-  id: 5
+  id: 4
   name: "Tran Huynh"
   surname: "Tan Vu"
   company: "GDG Vietnam"
