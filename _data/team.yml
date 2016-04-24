@@ -12,20 +12,6 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/ngoc.possible?fref=ts"}
-- 
-  id: 1
-  name: "Le Thanh"
-  surname: "Hung"
-  company: "GDG Hanoi"
-  title: "Technical & Event Manager"
-  thumbnailUrl: lethanhhung.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
-    - {name: "github", link: ""}
 
 -
   id: 2
