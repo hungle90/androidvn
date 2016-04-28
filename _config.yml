@@ -178,8 +178,8 @@ ticketsOffers:
   buyButtonLink: "http://bit.ly/googleandroidcourse"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-11-1T10:00"
-  validThrough: "2015-12-1T10:00"
+  validFrom: ""
+  validThrough: ""
   # soldOut: true
   # soldOutText: "Closed"
  -
@@ -193,8 +193,8 @@ ticketsOffers:
   buyButtonLink: "http://bit.ly/googleandroidcourse"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-11-02T10:00"
-  validThrough: "2015-12-01T10:00"
+  validFrom: ""
+  validThrough: ""
 
  -
 
@@ -206,8 +206,8 @@ ticketsOffers:
   buyButtonText: "Registration"
   additionalInfo: ""
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-09-02T10:00"
-  validThrough: "2015-12-01T10:00"
+  validFrom: ""
+  validThrough: ""
  
   
 
@@ -296,10 +296,9 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Android for Beginner"
 hackathonRows:
- - {title: "Lesson 1: Building Layouts", image: "hackathon-0.png", details: "<br><br>- Writing XML <br><br>- TextViews and Image Views<br><br>- Styling your views <br><br>- Positioning your views with ViewGroups<br><br>- LinearLayout weight<br><br>- Using RelativeLayout to position views relative to each other"}
- - {title: "Lesson 2: Making an App Interactive", image: "hackathon-1.png", details: "<br><br>- Making a button click execute code<br><br>- Having the app evaluate math expressions<br><br>- Declaring, initializing and using variables<br><br>- Variable scope<br><br>- Nested layouts<br><br>- The String datatype<br><br>- Combining Strings, ints and variables with concatenation "}
- - {title: "Lesson 3: Work with the Android Framework and Control Flow", image: "hackathon-2.png", details: "<br><br>- Method declaration and calling<br><br>- Parameters and return values<br><br>- An introduction to Object Oriented Programming<br><br>- Changing the attributes of your views dynamically<br><br>- Creating conditional logic using if/else statement"}
-
+ - {title: "Day 1: Android Best Practices:", image: "hackathon-0.png", details: "<br><br>- Android overview: <br><br>- MVC pattern<br><br>- MVP Pattern <br><br>- MVVM Pattern<br><br>- Clean Architect<br><br>- Testing in Android"}
+ - {title: "Day 2: Making an Impactful App", image: "hackathon-1.png", details: "<br><br>- Work in pair on Todo app using Cloud Database or propose ideas from participants.<br><br>- Keep working in pair on demo app.<br><br>- Wrap up"}
+ 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
