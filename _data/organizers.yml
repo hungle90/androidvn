@@ -7,9 +7,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "FPT University", description: "FPT University", link: "http://fpt.edu.vn/", imageUrl: "fptuniversity.svg"}
-    - {name: "FPT Aptech", description: "FPT Aptech", link: "http://fpt.aptech.edu.vn/", imageUrl: "aptech.svg"}
-    - {name: "Silicon Straits Saigon", description: "Silicon Straits Saigon", link: "http://siliconstraits.vn/", imageUrl: "siliconss.svg"}
-    - {name: "Danang University of Technology", description: "Danang University of Technology", link: "http://dut.udn.vn/", imageUrl: "danang.svg"}
-    - {name: "TopDev", description: "TopDev", link: "https://topdev.vn/", imageUrl: "topdev.svg"}
-    - {name: "Axon Active Vietnam", description: "Axon Active Vietnam", link: "http://www.axonactive.com/", imageUrl: "axon.svg"}
+    - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
+    - {name: "FPT Software", description: "FPT Softwarw", link: "https://www.fpt-software.com/", imageUrl: "fpt-logo.svg"}
