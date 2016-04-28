@@ -8,4 +8,4 @@
   group: "Co-organizers"
   elements: 
     - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-    
+    - {name: "FPT Software", description: "FPT Software", link: "https://www.fpt-software.com/", imageUrl: "fpt_logo.svg"}
