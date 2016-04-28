@@ -2,9 +2,10 @@
   group: "General sponsor"
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdg.svg"}
-
-    
-
+- 
+  group: "Media Partner"
+  elements: 
+    - {name: "FPT Software", description: "FPT Software", link: "https://www.fpt-software.com/", imageUrl: "fpt_logo.svg"}
 
 
 
