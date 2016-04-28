@@ -9,13 +9,13 @@
     # - {title: "Room4", color: "#FFFF00"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "09:35",
+        startTime: "",
+        endTime: "",
         sessionIds: [000]
     }
     - {
-        startTime: "09:35",
-        endTime: "10:00",
+        startTime: "Morning",
+        endTime: "",
         sessionIds: [001]
     }
     - {
@@ -24,18 +24,18 @@
         sessionIds: [002]
     }
     - {
-        startTime: "10:15",
-        endTime: "12:00",
+        startTime: "",
+        endTime: "",
         sessionIds: [003]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "",
+        endTime: "",
         sessionIds: [308]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:15",
+        startTime: "",
+        endTime: "",
         sessionIds: [307]
     }
     - {
