@@ -8,6 +8,5 @@
   group: "Co-organizers"
   elements: 
     - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-    - {name: "SaiGon Tourane Hotel", description: "SaiGon Tourane Hotel", link: "http://www.saigontourane.com.vn/", imageUrl: "hotel.svg"}
-    - {name: "HoaSen University", description: "HoaSen University", link: "http://www.hoasen.edu.vn/vi/", imageUrl: "hoasenuniversity.svg"}
+    - {name: "FPT Software", description: "FPT Softwarw", link: "https://www.fpt-software.com/", imageUrl: "fpt-logo.svg"}
    
