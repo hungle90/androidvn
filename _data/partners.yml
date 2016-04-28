@@ -4,11 +4,7 @@
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdg.svg"}
 
     
-- group: "Media sponsor"
-  elements: 
-    - {name: "Viec Donus", description: "Donus", link: "http://viecbonus.com/", imageUrl: "donus.svg"}
-    - {name: "VTC Academy", description: "VTC Academy", link: "http://vtcacademy.edu.vn/", imageUrl: "vtc.svg"}
-    - {name: "FUNiX", description: "FUNiX", link: "https://www.funix.edu.vn/", imageUrl: "funix.svg"}
+
 
 
 
