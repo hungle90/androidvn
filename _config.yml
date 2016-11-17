@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Vietnam Android Academy <typeout> "
-eventDate: "May, 2016 "
+eventDate: "December, 2016 "
 typeoutTextValues: '"", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
