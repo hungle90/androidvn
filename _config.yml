@@ -147,7 +147,7 @@ ticketsOffers:
   ticketsNumber: ""
   additionalInfo: ""
   ribbon: ""
-  buyButtonLink: "http://bit.ly/googleandroidcourse"
+  buyButtonLink: "https://goo.gl/dfdL51"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: ""
@@ -162,7 +162,7 @@ ticketsOffers:
   ribbon: ""
   additionalInfo: ""
   featured: true
-  buyButtonLink: "http://bit.ly/googleandroidcourse"
+  buyButtonLink: "https://goo.gl/dfdL51"
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: ""
