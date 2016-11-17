@@ -23,15 +23,15 @@ googleAnalyticsSiteUrl: "hungle90.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Infoy
-organizerName: "GDG Hanoi"
-organizerAlternateName: "Google Developer Group Hanoi"
+organizerName: "GDG Vietnam"
+organizerAlternateName: "Google Developer Group Vietnam"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "hung@gdghanoi.org"
+organizerEmail: "contact@vietandroid.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdghanoi.org"
+organizerLink: "http://gdgvietnam.com"
 
 # Head
-metaKeywords: "Android, Vietnam Android Academy, Da Nang, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
+metaKeywords: "Android, Vietnam Android Academy, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
 twitterAccount: "@vietnamandroidacademy"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,15 +55,15 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "http://bit.ly/googleandroidcourse", text: "Đăng ký tại đây"}
+ - {link: "https://goo.gl/dfdL51", text: "Đăng ký tại đây"}
 rightNavigationButtons:
- - {link: "http://bit.ly/googleandroidcourse", text: "Đăng ký tại đây"}
+ - {link: "https://goo.gl/dfdL51", text: "Đăng ký tại đây"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Vietnam Android Academy <typeout> "
 eventDate: "May, 2016 "
-typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
+typeoutTextValues: '"", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
  - {link: "http://bit.ly/googleandroidcourse", text: "Registration"}
@@ -80,10 +80,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "160", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "30", specialCharacter: "+", info: "Trainer", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "cities", detail: "plus entertainment lounge"}
+ - {count: "4", specialCharacter: "+", info: "Trainer", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "venues", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -95,50 +95,21 @@ rockstarSpeakersTitle: "Android Experts"
 rockstarSpeakersButtonText: "See all experts"
 
 # Location Block
-locationBlockTitle: "Da Nang"
-eventLocationName: "Saigon Tuorane Hotel"
+locationBlockTitle: "Ho Chi Minh"
+eventLocationName: "RMIT"
 eventLocationLink: "http://devfest.vn"
-eventStreetAddress: "Saigon Tourane Hotel, No 5th, Dong Da st, Da Nang"
-eventAddressLocality: "Da Nang"
+eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
+eventAddressLocality: "Ho Chi Minh"
 eventAddressLocalityRegion: ""
-eventPostalCode: "550000"
+eventPostalCode: "100000"
 eventAddressCountry: "Vietnam"
-eventStartTime: "2015-09-27T18:00"
-eventDoorTime: "18:00"
-eventEndTime: "2015-09-25T21:30"
-eventPlaceCoordinates: "16.08293, 108.21962"
-mapCenterCoordinates: "16.08293, 108.21962"
-mapMobileCenterCoordinates: "16.08293, 108.21962"
-# # Location Block
-# locationBlockTitle: "Danang"
-# eventLocationName: "VTC Academy"
-# eventLocationLink: "http://devfest.vn"
-# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
-# eventAddressLocality: "Danang"
-# eventAddressLocalityRegion: ""
-# eventPostalCode: "100000"
-# eventAddressCountry: "Vietnam"
-# eventStartTime: "2015-09-27T13:30"
-# eventDoorTime: "13:00"
-# eventEndTime: "2015-09-25T17:00"
-# eventPlaceCoordinates: "20.99540, 105.86202"
-# mapCenterCoordinates: "20.99540, 105.86202"
-# mapMobileCenterCoordinates: "20.99540, 105.86202"
-# # Location Block
-# locationBlockTitle: "Ho Chi Minh"
-# eventLocationName: "RMIT"
-# eventLocationLink: "http://devfest.vn"
-# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
-# eventAddressLocality: "Ho Chi Minh"
-# eventAddressLocalityRegion: ""
-# eventPostalCode: "100000"
-# eventAddressCountry: "Vietnam"
-# eventStartTime: "2015-09-27T13:30"
-# eventDoorTime: "13:00"
-# eventEndTime: "2015-09-25T17:00"
-# eventPlaceCoordinates: "10.729502, 106.693618"
-# mapCenterCoordinates: "10.729502, 106.693618"
-# mapMobileCenterCoordinates: "10.729502, 106.693618"
+eventStartTime: "2015-09-27T13:30"
+eventDoorTime: "13:00"
+eventEndTime: "2015-09-25T17:00"
+eventPlaceCoordinates: "10.729502, 106.693618"
+mapCenterCoordinates: "10.729502, 106.693618"
+mapMobileCenterCoordinates: "10.729502, 106.693618"
+
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
@@ -170,8 +141,8 @@ ticketsTitle: "Registration"
 ticketsInfo: "Tickets grant access to all sections, coffee brakes, lunch and party. All tickets are FREE for developers"
 ticketsOffers:
  -
-  name: "VAA - Hanoi"
-  price: "05/2016"
+  name: "VAA - Developer"
+  price: "12/2016"
   priceCurrency: ""
   ticketsNumber: ""
   additionalInfo: ""
@@ -184,8 +155,8 @@ ticketsOffers:
   # soldOut: true
   # soldOutText: "Closed"
  -
-  name: "VAA - Danang"
-  price: "05/2016"
+  name: "VAA - Student"
+  price: "12/2016"
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: ""
@@ -196,27 +167,13 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: ""
   validThrough: ""
-
- -
-
-  name: "VAA - HCM"
-  price: "05/2016"
-  priceCurrency: ""
-  ticketsNumber: ""
-  buyButtonLink: "http://bit.ly/googleandroidcourse"
-  buyButtonText: "Registration"
-  additionalInfo: ""
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: ""
-  validThrough: ""
  
-  
-
+ 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGHanoi", icon: "twitter"}
- - {link: "https://facebook.com/GDGHanoi", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGVietnam", icon: "twitter"}
+ - {link: "https://facebook.com/GDGVietnam", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -229,10 +186,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:contact@vietandroid.academy", text: "contact@vietandroid.academy"}
-   - {link: "mailto:hanoi@vietandroid.academy", text: "hanoi@vietandroid.academy"}
-   - {link: "mailto:danang@vietandroid.academy", text: "danang@vietandroid.academy"}
-   - {link: "mailto:hcm@vietandroid.academy", text: "hcm@vietandroid.academy"}
+   - {link: "mailto:contact@vietandroid.org", text: "contact@vietandroid.org"}
  -
   title: "FAQ"
   links:
