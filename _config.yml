@@ -66,8 +66,8 @@ eventDate: "December, 2016 "
 typeoutTextValues: '"", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/googleandroidcourse", text: "Registration"}
- - {link: "http://bit.ly/vietnamandroidtrainers", text: "For Trainer "}
+ - {link: "https://goo.gl/dfdL51", text: "Registration"}
+ - {link: "https://goo.gl/dfdL51", text: "For Developer "}
 
 
 # About Block
